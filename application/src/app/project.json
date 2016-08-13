@@ -5,7 +5,8 @@
     "emitEntryPoint": true
   },
   "dependencies": {
-    "library": "1.0.1"
+    "library": "1.0.1",
+    "library2": "1.0.0"
   },
   "frameworks": {
     "netcoreapp1.0": {
